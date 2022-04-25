@@ -1,1 +1,1 @@
-* PC played by Eric
+* PC played by Eric Z
