@@ -33,7 +33,7 @@ def main():
     toc.write(toc_string)
 
     for link in md_links:
-        toc.write(f"[[{link}]]\n")
+        toc.write(f"[[{link}]]\n\n")
 
 
 if __name__ == "__main__":
