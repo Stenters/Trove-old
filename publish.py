@@ -1,7 +1,7 @@
 import os
 import shutil
 
-MD_DIR = "../RPG/Trove"
+MD_DIR = "Trove"
 md_files = []
 md_links = []
 toc_string = """
