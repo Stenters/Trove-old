@@ -30,12 +30,11 @@
 * The [[Fancy ship]] is somehow associated with the [[Needle Ships]]
 ## Synopsis
 * The party began on the docks of [[Royal Blue]], searching for a ship to commandeer after their recent losses of transportation
-* On their way over, [[Captain Cilver | Cilver]] and [[Sallhador]] were able to recruit [[Chimaaro]], [[Closh]], and [[Cricket | an unnamed orc]] with the help of [[Rango]]
+* On their way over, [[Captain Cilver]] and [[Sallhador]] were able to recruit [[Chimaaro]], [[Closh]], and [[Cricket] with the help of [[Rango]]
 * [[Valor]] was able to pick up [[Kinu]] with the promise of quick passage off [[Terra Rusk]]
 * At the dockside, Cilver broke the news to everyone that the crew didn't *exactly* have a ship, but that lapse would be corrected in short order
 * After convincing everyone that keeping in the crew was the best course of action, Cilver began sizing up the potential options
 * Five ships were currently in dock: [[Military vessle]], [[Fancy ship]], [[Jellyfish craft]], [[Old ship]], and [[Sky turtle barge]]
-<br>
 * After discussing for some time, Cilver sent Valor to investigate the Jellyfish craft
 * Valor, using her excilent skills to blend into the crown, made her way over to the craft, where she was met with [[Glib]], one of the Jellyfish's crew
 * Glib, noticing that Rango was aggressively following Valor, invited her on in an attempt to rescue her from a percived stalker

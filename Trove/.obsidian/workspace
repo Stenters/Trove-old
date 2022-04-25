@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Captain Cilver.md",
+            "file": "Session notes/Session 1.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Captain Cilver.md",
+                "file": "Session notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "4d0b15d8c0754df5",
   "lastOpenFiles": [
-    "Characters/Captain Cilver.md",
     "Session notes/Session 1.md",
+    "Characters/Captain Cilver.md",
     "Characters/Rango.md",
     "Characters/Captain Johnson.md",
     "Cities/Tinkertock.md",
