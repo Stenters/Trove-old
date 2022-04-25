@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "2ab1a1d1a6b60681",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d0b15d8c0754df5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Session notes/Session 1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "324504c5ba148893",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Session notes/Session 1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b95cebf8fac69676",
+    "type": "split",
+    "children": [
+      {
+        "id": "5309ad9169f5eb74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fd526bb79cf9373",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfa8f3832563ce98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a05e7100c169bd00",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb840194e32d925b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "597e31cba7f23527",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session notes/Session 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d0b15d8c0754df5",
+  "lastOpenFiles": [
+    "Session notes/Session 1.md",
+    "Characters/Captain Cilver.md",
+    "Characters/Captain Johnson.md",
+    "Cities/Tinkertock.md",
+    "Characters/Sallhador.md",
+    "Characters/Captain Short Jhim Gold.md",
+    "Places/The Mushroom Bar.md",
+    "Ships/Military vessle.md",
+    "Session notes/Notes Template.md",
+    "Lore/Needle Ships.md"
+  ]
+}
