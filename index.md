@@ -2,4 +2,4 @@
 This is a basic landing page for the Trove Wiki
 
 # Links
-For session notes, see: [[Session 1.html]]
+For session notes, see: [[Trove/Session notes/Session 1.md]]
