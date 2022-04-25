@@ -1,4 +1,5 @@
 [
   "obsidian-dynamic-toc",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-plugin-toc"
 ]

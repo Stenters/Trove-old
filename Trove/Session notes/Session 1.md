@@ -1,6 +1,12 @@
 # Table of Contents
-```toc
-``` 
+- [[#People|People]]
+	- [[#People#PCs|PCs]]
+	- [[#People#NPCs|NPCs]]
+- [[#Places|Places]]
+- [[#Things|Things]]
+- [[#Significant discoveries|Significant discoveries]]
+- [[#Synopsis|Synopsis]]
+- [[#Raw notes|Raw notes]]
 # Formatted notes
 ## People
 ### PCs
